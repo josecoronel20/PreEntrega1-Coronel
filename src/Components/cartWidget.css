@@ -1,0 +1,12 @@
+.cartWidgetCounter{
+    background-color: #f78c8c;
+    border-radius: 999999px;
+    padding: 3px 10px;
+    color: #832a2a;
+}
+
+.cart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
